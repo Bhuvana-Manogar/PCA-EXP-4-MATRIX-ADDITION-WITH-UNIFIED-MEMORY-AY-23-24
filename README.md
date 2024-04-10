@@ -198,5 +198,8 @@ int main(int argc, char **argv)
 ![alt text](<with memset.png>)
 ## WITHOUT MEMSET
 ![alt text](<without memset.png>)
+## nvprof
+![Screenshot 2024-04-10 115448](https://github.com/Bhuvana-Manogar/PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY-AY-23-24/assets/147125678/665f7afb-202a-4cac-b859-eb9b161a9989)
+
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.039627 time.
