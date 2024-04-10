@@ -195,7 +195,7 @@ int main(int argc, char **argv)
 ```
 ## OUTPUT:
 ## WITH MEMSET
-![alt text](<with memset-1.png>)
+![alt text](<with memset.png>)
 ## WITHOUT MEMSET
 ![alt text](<without memset.png>)
 ## RESULT:
